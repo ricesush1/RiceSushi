@@ -5,15 +5,23 @@
 ## 5.3
 
 ### notes
-*
+* voice assistants often have problems recognising thick accents.
+* humans are more prone to bias, but computers can still be biased
+* netflix can sometimes cater biased suggestions to users
 
 ### questions
 1. Does the owner of the computer think this was intentional?
+no, he does not.
 2. If yes or no, justify you conclusion.
+in the description of this video, he writes "You have to watch this video. It is hilarious!" Which implies that its not a serious problem
 3. How do you think this happened?
+the person that developed this software was probably just testing it with people around him, and he may not have thought to test it on people with darker complexion
 4. Is this harmful? Was it intended to be harmful or exclude?
+its not so much harmful as it is an inconvenience.
 5. Should it be corrected?
+yes. im sure HP would be able to release a fix for this.
 6. What would you or should you do to produce a better outcome?
+if they are using their own algorithm, they should tweak it to work with all races, but if they used an online one, they should try to find one that works with more races.
 
 ## 5.4
 ### notes
