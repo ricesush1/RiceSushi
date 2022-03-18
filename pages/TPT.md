@@ -1,0 +1,66 @@
+# TPT 5.3-5.4
+
+## 5.3
+
+### notes
+*
+
+### questions
+1. Does the owner of the computer think this was intentional?
+2. If yes or no, justify you conclusion.
+3. How do you think this happened?
+4. Is this harmful? Was it intended to be harmful or exclude?
+5. Should it be corrected?
+6. What would you or should you do to produce a better outcome?
+
+## 5.4
+### notes
+* crowdsourcing is a good way of gathering data from a target audience to make improvements to the code that your audience actually wants.
+* wikipedia is the largest example of crowdsourcing, relying entirely on user input to define subjects.
+* all crypto exchanges are validated by 3 different miners to make sure the exchange is not fraudulent.
+* using API's is an example of crowdsourcing
+* forking GitHub code is also an example of crowdsourcing.
+
+### questions
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+i could send out a survey asking about a certain part of my site, using the data to add useful info to the site.
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+if a survey was sent out to english classes that voted for best books, we could get a better understanding of what kind of books to recommend to students.
+# TPT 5.1-5.2
+
+## 5.1
+
+### notes
+* drones can be used for search and rescue and recreational uses, but can also have negative side effects, like military drones. 
+* lots of services online can provide dopamine like games and social medias
+* Anthony Rosner started prioritizing his gaming life over his real life, which destroyed not just his hygiene, but his social relationship and his academics too. he usually spent 18 hours a day playing.
+* he turned his life around by turning his spiral into world of warcraft into a documentary. in this situation, he wouldn't have pursued his dreams of filmmaking without his gaming addiction.
+* when you call any large company. you usually get sent to a bot that tries to resolve your issue without sending you to a representative. this is done because of the limitations in terms of how many representatives can be hired.
+
+### questions
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+* unlimited access to information, but there is lots of falsified data on the internet
+* provides entertainment in the form of social media and games, but can become addictive and eat into social life.
+* you can meet new people on the internet, but they can be very dangerous
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+* yes, getting addicted to the internet is a genuine concern. because of my obsession with games, my grades are not as high as they could be.
+
+## 5.2
+
+### notes
+* poor areas have less access to technology
+* countries like china restrict a lot of sites that countries like the us can use
+* older computers might not be able to use modern software, and they are also more vulnerable having no security updates.
+* the amish willing dont use tech
+* 90,000 kids in new jersey did not have the resources to do online learning in the beginning of covid
+* some classes at our school require at home computers and internet, which not everyone has
+* school computers block a lot of websites, some make sense, but some block the ability to research
+* some parents dont want their kids online out of fear of the dangers on the internet, like cyberbullying and leaking personal information.
+
+### questions
+1. How does someone empower themself in a digital world?
+* people that dont have access to the internet can go to a library or seek help from their school to gain access to the internet.
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+* del norte helps students become empowered on the internet by providing resources such as chromebooks to help get more students connected to the internet.
+3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+* even though del norte provides chromebooks to students, not all kids have a stable internet connection at home, making things like checking grades and submitting digital assignments significantly harder.
