@@ -1,3 +1,3 @@
 {% include navigation.html %}
 
-https://replit.com/@RiceSushi/Menu
+<iframe frameborder=“0” width=“100%” height=“500px” src=“https://replit.com/@RiceSushi/Menu?embed=true”></iframe>
