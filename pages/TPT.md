@@ -1,5 +1,26 @@
 {% include navigation.html %}
 
+# TPT 5.5-5.6
+
+## 5.5
+
+### notes
+- 
+### questions
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+2. Make a license for your personal and Team project. Document license you picked and why.
+## 5.6
+
+### notes
+- 
+### questions
+1. Describe PII you have seen on project in CompSci Principles.
+2. What are your feelings about PII and your exposure?
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+4. Try to describe Symmetric and Asymmetric encryption.
+5. Provide and example of encryption we used in deployment.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
 # TPT 5.3-5.4
 
 ## 5.3
