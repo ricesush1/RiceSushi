@@ -5,14 +5,18 @@
 ## 5.5
 
 ### notes
-- 
+- free websites arent truly free, you pay with your information
+- content on the internet can be licenced out to people
+- patents give you the rights to content
 ### questions
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 2. Make a license for your personal and Team project. Document license you picked and why.
 ## 5.6
 
 ### notes
-- 
+- do not click on emails from unknown sources
+- do not share SSN or tax records, basically any personal info
+- use 2FA to be more secure and dont use weak passwords
 ### questions
 1. Describe PII you have seen on project in CompSci Principles.
 2. What are your feelings about PII and your exposure?
