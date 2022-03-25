@@ -19,11 +19,17 @@
 - use 2FA to be more secure and dont use weak passwords
 ### questions
 1. Describe PII you have seen on project in CompSci Principles.
+you can see a student's first and last name in their repository and github pages, but that is the extent of it.
 2. What are your feelings about PII and your exposure?
+Personal information should only be exposed to trusted people and sources
 3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+bed passwords are either too common or too easy to bruteforce (ie. 12345678 or qwerty). two factor authentication can be used as a second layer of security on top of a password (ie. authenticator app or sms verification)
 4. Try to describe Symmetric and Asymmetric encryption.
+
 5. Provide and example of encryption we used in deployment.
+
 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
 
 # TPT 5.3-5.4
 
