@@ -8,6 +8,7 @@
 - free websites arent truly free, you pay with your information
 - content on the internet can be licenced out to people
 - patents give you the rights to content
+
 ### questions
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages
 Creative commons is a lisence that allows free distribution of software
@@ -21,6 +22,7 @@ We picked the MIT lisence because it has multiple advantages over cretive common
 - do not click on emails from unknown sources
 - do not share SSN or tax records, basically any personal info
 - use 2FA to be more secure and dont use weak passwords
+
 ### questions
 1. Describe PII you have seen on project in CompSci Principles.
 you can see a student's first and last name in their repository and github pages, but that is the extent of it.
@@ -59,6 +61,7 @@ yes. im sure HP would be able to release a fix for this.
 if they are using their own algorithm, they should tweak it to work with all races, but if they used an online one, they should try to find one that works with more races.
 
 ## 5.4
+
 ### notes
 * crowdsourcing is a good way of gathering data from a target audience to make improvements to the code that your audience actually wants.
 * wikipedia is the largest example of crowdsourcing, relying entirely on user input to define subjects.
@@ -71,6 +74,7 @@ if they are using their own algorithm, they should tweak it to work with all rac
 i could send out a survey asking about a certain part of my site, using the data to add useful info to the site.
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 if a survey was sent out to english classes that voted for best books, we could get a better understanding of what kind of books to recommend to students.
+
 # TPT 5.1-5.2
 
 ## 5.1
