@@ -9,8 +9,12 @@
 - content on the internet can be licenced out to people
 - patents give you the rights to content
 ### questions
-1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
-2. Make a license for your personal and Team project. Document license you picked and why.
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages
+Creative commons is a lisence that allows free distribution of software
+3. Make a license for your personal and Team project. Document license you picked and why.
+We picked the MIT lisence because it has multiple advantages over cretive commons
+
+
 ## 5.6
 
 ### notes
@@ -29,7 +33,7 @@ symmetric encryption uses one key for encryption, and asymmetric uses 2 keys for
 5. Provide and example of encryption we used in deployment.
 when we used certbot to add https certification, that was an example of encryption
 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
-
+i am pretty good at not clicking on suspicious emails, but i have gotten a ton of spam emails. the most common scheme i have seen tries to get the user to give tech support control of their computer to try and get banking details
 
 # TPT 5.3-5.4
 
