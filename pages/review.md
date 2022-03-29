@@ -1,7 +1,10 @@
 {% include navigation.html %}
 
-# [Week 2 Review Ticket](https://github.com/ricesush1/RiceSushi/issues/3)
+### Tickets
 
-# [Week 1 Review Ticket](https://github.com/ricesush1/RiceSushi/issues/2)
+|Week #|Ticket|
+|----|---------|
+|Week 0|[Week 1 Ticket](https://github.com/ricesush1/RiceSushi/issues/1)|
+|Week 1|[Week 2 Ticket](https://github.com/ricesush1/RiceSushi/issues/2)|
+|Week 2|[Week 3 Ticket](https://github.com/ricesush1/RiceSushi/issues/3)|
 
-# [Week 0 Review Ticket](https://github.com/ricesush1/RiceSushi/issues/1)
