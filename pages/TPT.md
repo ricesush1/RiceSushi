@@ -4,12 +4,12 @@
 
 ## 5.5
 
-### notes
+**notes**
 - free websites arent truly free, you pay with your information
 - content on the internet can be licenced out to people
 - patents give you the rights to content
 
-### questions
+**questions**
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages
 - Creative commons is a lisence that allows free distribution of software
 2. Make a license for your personal and Team project. Document license you picked and why.
@@ -18,12 +18,12 @@
 
 ## 5.6
 
-### notes
+**notes**
 - do not click on emails from unknown sources
 - do not share SSN or tax records, basically any personal info
 - use 2FA to be more secure and dont use weak passwords
 
-### questions
+**questions**
 1. Describe PII you have seen on project in CompSci Principles.
 - you can see a student's first and last name in their repository and github pages, but that is the extent of it.
 2. What are your feelings about PII and your exposure?
@@ -41,12 +41,12 @@
 
 ## 5.3
 
-### notes
+**notes**
 * voice assistants often have problems recognising thick accents.
 * humans are more prone to bias, but computers can still be biased
 * netflix can sometimes cater biased suggestions to users
 
-### questions
+**questions**
 1. Does the owner of the computer think this was intentional?
 - no, he does not.
 2. If yes or no, justify you conclusion.
@@ -62,14 +62,14 @@
 
 ## 5.4
 
-### notes
+**notes**
 * crowdsourcing is a good way of gathering data from a target audience to make improvements to the code that your audience actually wants.
 * wikipedia is the largest example of crowdsourcing, relying entirely on user input to define subjects.
 * all crypto exchanges are validated by 3 different miners to make sure the exchange is not fraudulent.
 * using API's is an example of crowdsourcing
 * forking GitHub code is also an example of crowdsourcing.
 
-### questions
+**questions**
 1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
 - i could send out a survey asking about a certain part of my site, using the data to add useful info to the site.
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
@@ -79,14 +79,14 @@
 
 ## 5.1
 
-### notes
+**notes**
 * drones can be used for search and rescue and recreational uses, but can also have negative side effects, like military drones. 
 * lots of services online can provide dopamine like games and social medias
 * Anthony Rosner started prioritizing his gaming life over his real life, which destroyed not just his hygiene, but his social relationship and his academics too. he usually spent 18 hours a day playing.
 * he turned his life around by turning his spiral into world of warcraft into a documentary. in this situation, he wouldn't have pursued his dreams of filmmaking without his gaming addiction.
 * when you call any large company. you usually get sent to a bot that tries to resolve your issue without sending you to a representative. this is done because of the limitations in terms of how many representatives can be hired.
 
-### questions
+**questions**
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 * unlimited access to information, but there is lots of falsified data on the internet
 * provides entertainment in the form of social media and games, but can become addictive and eat into social life.
@@ -96,7 +96,7 @@
 
 ## 5.2
 
-### notes
+**notes**
 * poor areas have less access to technology
 * countries like china restrict a lot of sites that countries like the us can use
 * older computers might not be able to use modern software, and they are also more vulnerable having no security updates.
@@ -106,7 +106,7 @@
 * school computers block a lot of websites, some make sense, but some block the ability to research
 * some parents dont want their kids online out of fear of the dangers on the internet, like cyberbullying and leaking personal information.
 
-### questions
+**questions**
 1. How does someone empower themself in a digital world?
 * people that dont have access to the internet can go to a library or seek help from their school to gain access to the internet.
 2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
