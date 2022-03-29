@@ -11,9 +11,9 @@
 
 ### questions
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages
-Creative commons is a lisence that allows free distribution of software
-3. Make a license for your personal and Team project. Document license you picked and why.
-We picked the MIT lisence because it has multiple advantages over cretive commons
+- Creative commons is a lisence that allows free distribution of software
+2. Make a license for your personal and Team project. Document license you picked and why.
+- We picked the MIT lisence because it has multiple advantages over cretive commons
 
 
 ## 5.6
@@ -25,17 +25,17 @@ We picked the MIT lisence because it has multiple advantages over cretive common
 
 ### questions
 1. Describe PII you have seen on project in CompSci Principles.
-you can see a student's first and last name in their repository and github pages, but that is the extent of it.
+- you can see a student's first and last name in their repository and github pages, but that is the extent of it.
 2. What are your feelings about PII and your exposure?
-Personal information should only be exposed to trusted people and sources
+- Personal information should only be exposed to trusted people and sources
 3. Describe good and bad passwords? What is another step that is used to assist in authentication.
-bed passwords are either too common or too easy to bruteforce (ie. 12345678 or qwerty). two factor authentication can be used as a second layer of security on top of a password (ie. authenticator app or sms verification)
+- bad passwords are either too common or too easy to bruteforce (ie. 12345678 or qwerty). two factor authentication can be used as a second layer of security on top of a password (ie. authenticator app or sms verification)
 4. Try to describe Symmetric and Asymmetric encryption.
-symmetric encryption uses one key for encryption, and asymmetric uses 2 keys for encryption, one public and one private.
+- symmetric encryption uses one key for encryption, and asymmetric uses 2 keys for encryption, one public and one private.
 5. Provide and example of encryption we used in deployment.
-when we used certbot to add https certification, that was an example of encryption
+- when we used certbot to add https certification, that was an example of encryption
 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
-i am pretty good at not clicking on suspicious emails, but i have gotten a ton of spam emails. the most common scheme i have seen tries to get the user to give tech support control of their computer to try and get banking details
+- i am pretty good at not clicking on suspicious emails, but i have gotten a ton of spam emails. the most common scheme i have seen tries to get the user to give tech support control of their computer to try and get banking details
 
 # TPT 5.3-5.4
 
@@ -48,17 +48,17 @@ i am pretty good at not clicking on suspicious emails, but i have gotten a ton o
 
 ### questions
 1. Does the owner of the computer think this was intentional?
-no, he does not.
+- no, he does not.
 2. If yes or no, justify you conclusion.
-in the description of this video, he writes "You have to watch this video. It is hilarious!" Which implies that its not a serious problem
+- in the description of this video, he writes "You have to watch this video. It is hilarious!" Which implies that its not a serious problem
 3. How do you think this happened?
-the person that developed this software was probably just testing it with people around him, and he may not have thought to test it on people with darker complexion
+- the person that developed this software was probably just testing it with people around him, and he may not have thought to test it on people with darker complexion
 4. Is this harmful? Was it intended to be harmful or exclude?
-its not so much harmful as it is an inconvenience.
+- its not so much harmful as it is an inconvenience.
 5. Should it be corrected?
-yes. im sure HP would be able to release a fix for this.
+- yes. im sure HP would be able to release a fix for this.
 6. What would you or should you do to produce a better outcome?
-if they are using their own algorithm, they should tweak it to work with all races, but if they used an online one, they should try to find one that works with more races.
+- if they are using their own algorithm, they should tweak it to work with all races, but if they used an online one, they should try to find one that works with more races.
 
 ## 5.4
 
@@ -71,9 +71,9 @@ if they are using their own algorithm, they should tweak it to work with all rac
 
 ### questions
 1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
-i could send out a survey asking about a certain part of my site, using the data to add useful info to the site.
+- i could send out a survey asking about a certain part of my site, using the data to add useful info to the site.
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
-if a survey was sent out to english classes that voted for best books, we could get a better understanding of what kind of books to recommend to students.
+- if a survey was sent out to english classes that voted for best books, we could get a better understanding of what kind of books to recommend to students.
 
 # TPT 5.1-5.2
 
