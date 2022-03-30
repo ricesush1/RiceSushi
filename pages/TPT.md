@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# TPT 5.5-5.6
+# *TPT 5.5-5.6*
 
 ## 5.5
 
@@ -37,7 +37,7 @@
 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 - i am pretty good at not clicking on suspicious emails, but i have gotten a ton of spam emails. the most common scheme i have seen tries to get the user to give tech support control of their computer to try and get banking details
 
-# TPT 5.3-5.4
+# *TPT 5.3-5.4*
 
 ## 5.3
 
@@ -75,7 +75,7 @@
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 - if a survey was sent out to english classes that voted for best books, we could get a better understanding of what kind of books to recommend to students.
 
-# TPT 5.1-5.2
+# *TPT 5.1-5.2*
 
 ## 5.1
 
