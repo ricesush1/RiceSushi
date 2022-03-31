@@ -1,17 +1,17 @@
 main_menu = [
 ]
 
-week0_list = [
+math = [
     ["Swap", "Week 0/numswap.py"],
 ]
 
-week1_list = [
+print = [
 
   ["InfoDb", "Week 1/listloop.py"],
   ["Fibonacci Imperative", "Week 1/fibonacci.py"]
 ]
 
-week2_list = [
+search = [
     ["Factorial", "Week 2/classfactorial.py"],
     ["Factors", "Week 2/factors.py"], 
     ["Fibonacci OOP", "Week 2/classfibonacci.py"],
