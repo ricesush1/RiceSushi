@@ -49,11 +49,11 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
 def menu():
-    title = "Function Menu" + banner
+    title = "\u001b[31mFunction Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Math", math])
-    menu_list.append(["Print", print])
-    menu_list.append(["Search", search])
+    menu_list.append(["\u001b[33mMath", math])
+    menu_list.append(["\u001b[35mPrint", print])
+    menu_list.append(["\u001b[36mSearch", search])
     menuy.menu(title, menu_list)
 
 
