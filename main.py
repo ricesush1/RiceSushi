@@ -2,19 +2,19 @@ main_menu = [
 ]
 
 math = [
-    ["Swap", "Week 0/numswap.py"],
+    ["Factorial", "math/classfactorial.py"],
+    ["Factors", "math/factors.py"],
+    ["Fibonacci OOP", "math/classfibonacci.py"],
+    ["Swap", "math/numswap.py"],
+    ["Fibonacci Imperative", "Week 1/fibonacci.py"],
 ]
 
 print = [
 
-  ["InfoDb", "Week 1/listloop.py"],
-  ["Fibonacci Imperative", "Week 1/fibonacci.py"]
 ]
 
 search = [
-    ["Factorial", "Week 2/classfactorial.py"],
-    ["Factors", "Week 2/factors.py"], 
-    ["Fibonacci OOP", "Week 2/classfibonacci.py"],
+    ["InfoDb", "search/listloop.py"],
 ]
 
 border = "=" * 25
@@ -24,22 +24,22 @@ def menu():
   print()
   title = "Function Menu" + banner
   menu_list = main_menu.copy()
-  menu_list.append(["Design", week0_func])
-  menu_list.append(["Lists", week1_func])
-  menu_list.append(["Math", week2_func])
+  menu_list.append(["Math", math])
+  menu_list.append(["Print", print])
+  menu_list.append(["Search", search])
   buildMenu(title, menu_list)
 
-def week0_func():
-  title = "Week 0" + banner
-  buildMenu(title, week0_list)
+def math():
+  title = "Math" + banner
+  buildMenu(title, math)
   
-def week1_func():
-  title = "Week 1" + banner
-  buildMenu(title, week1_list)
+def print():
+  title = "Print" + banner
+  buildMenu(title, print)
 
-def week2_func():
-  title = "Week 2" + banner
-  buildMenu(title, week2_list)
+def search():
+  title = "Search" + banner
+  buildMenu(title, search)
 
 
 def buildMenu(banner, options):
