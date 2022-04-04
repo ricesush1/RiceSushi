@@ -5,13 +5,7 @@ Comments will focus on abstraction.
 """
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-import menuy  # abstracted files in local directory
-from mody import advy  # abstracted files in a folder (aka module)
-from mody import questy
-from wipy import termy
-from wipy import biny
-from wipy import funcy
-
+import menuy #abstracted files in local directory
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -49,11 +43,11 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
 def menu():
-    title = "\u001b[31mFunction Menu" + banner
+    title = "\u001b[32mFunction Menu\u001b[0m" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["\u001b[33mMath", math])
-    menu_list.append(["\u001b[35mPrint", print])
-    menu_list.append(["\u001b[36mSearch", search])
+    menu_list.append([u"\u001b[33mMath\u001b[0m", math])
+    menu_list.append([u"\u001b[35mPrint\u001b[0m", print])
+    menu_list.append([u"\u001b[36mSearch\u001b[0m", search])
     menuy.menu(title, menu_list)
 
 

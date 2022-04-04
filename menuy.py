@@ -10,7 +10,7 @@ def menu(banner, options):
     print(banner)
 
     # build a dictionary from options
-    prompts = {0: ["Exit", None]}
+    prompts = {0: ["\u001b[31mExit\u001b[0m", None]}
     for op in options:
         index = len(prompts)
         prompts[index] = op
