@@ -6,6 +6,7 @@ Comments will focus on abstraction.
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 import menuy #abstracted files in local directory
+from search import listloop 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -20,7 +21,7 @@ math_practice = [
     ["Factorial", "math/classfactorial.py"],
     ["Fibonacci p.1", "math/classfibonacci.py"],
     ["Factors", "math/factors.py"],
-    ["Fibonacci p.2", "math/math/fibonacci.py"],
+    ["Fibonacci p.2", "math/fibonacci.py"],
     ["Number Swap", "math/numswap.py"],
 ]
 
@@ -28,7 +29,7 @@ printing_practice = [
 ]
 
 search_practice = [
-    ["List and Loop", "math/listloop.py"],
+    ["List and Loop", "search/listloop.py"],
 ]
 
 
