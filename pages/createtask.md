@@ -1,5 +1,13 @@
 {% include navigation.html %}
 
+# Study Plan
+
+| Week      | Plan |
+| ----------- | ----------- |
+| 3 Weeks Before Test      | first draft of create task videos and written responses, start practice tests       |
+| 2 Weeks Before Test   | Refine create task, video, and written responses to include all requirements, continue practice tests        |
+| last Before Test   | submit create task by monday, do more practice tests|
+
 # Practice Test Corrections
 
 ## Test 1 43/50
@@ -17,5 +25,8 @@ Q39: 80 seconds because since tasks cant be split up and there are 2 processors,
 Q1: tasks cannot be split down infinitley, there is a limit
 Q41: the database does not store the price of individual items, therefore only the count of items can be observed
 
-# Create Task Embed:
+# Create Task Runtime:
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@RiceSushi/CreateTask?embed=true"></iframe>
+
+# Create Task Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNUo24Tr9Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
