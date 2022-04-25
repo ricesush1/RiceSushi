@@ -6,7 +6,7 @@
 | ----------- | ----------- |
 | 3 Weeks Before Test      | first draft of create task videos and written responses, start practice tests       |
 | 2 Weeks Before Test   | Refine create task, video, and written responses to include all requirements, continue practice tests        |
-| last Before Test   | submit create task by monday, do more practice tests|
+| Last Week Before Test   | submit create task by monday, do more practice tests|
 
 # Practice Test Corrections
 
