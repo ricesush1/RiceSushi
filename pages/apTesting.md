@@ -25,8 +25,8 @@
 
 ### Score: 45/50
 
-- Q7
-- Q19
-- Q23
-- Q34
-- Q44
+- Q7: The procedure does not return the value of n * n. For a procedure to return n * n, it could initialize result to 0 and then repeatedly add n to result a total of n times.
+- Q19: This information can be determined by calculating the difference between the sum of the scores before the lowest score was dropped and the sum of the scores after the lowest score was dropped.
+- Q23: The average number of daily messages sent per user appears to increase after the mobile app was released.
+- Q34: This algorithm has linear efficiency, so it runs in a reasonable amount of time. Therefore, a heuristic is not appropriate.
+- Q44: The Fourth procedure calculates a power of n(similar to the Square and Cube procedures), but it does not generalize this functionality to calculate any power of n.
