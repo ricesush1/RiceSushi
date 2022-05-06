@@ -30,3 +30,14 @@
 - Q23: The average number of daily messages sent per user appears to increase after the mobile app was released.
 - Q34: This algorithm has linear efficiency, so it runs in a reasonable amount of time. Therefore, a heuristic is not appropriate.
 - Q44: The Fourth procedure calculates a power of n(similar to the Square and Cube procedures), but it does not generalize this functionality to calculate any power of n.
+
+## Test 5
+
+### Score: 44/50
+
+- Q10: For the example given, End minus start plus 1 evaluates to 16. The loop should iterate 4 times, not 16 times.
+- Q16: While the two programs initialize i to different values, the same values are printed inside the loop because program A prints i and then increments it and program B increments i and then prints it.
+- Q25: B was wrong because the code segment will iterate over myList from right to left, removing the sixth element (20), the third element (30), and the second element (30). This results in the list [30, 10, 20], which contains no duplicates, as intended. D was wrong because the code segment will iterate over myList from right to left, removing the all elements but the first. This results in the list [50], which contains no duplicates, as intended.
+- Q27: This statement does not provide enough information to conclude that the problem is undecidable. If it could be shown that an algorithm can be constructed that is always capable of providing a correct yes-or-no answer for all other instances of this problem, then this problem would be decidable.
+- Q36: The user’s browser makes a request for the file, and the file is broken into packets by the server for transmission. The user’s browser does not request each packet in order.
+- Q48: Certificate authorities do not verify the safety of Web sites.
