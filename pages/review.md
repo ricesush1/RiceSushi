@@ -4,6 +4,7 @@
 
 |Week #|Ticket|
 |----|---------|
+|Week 8|[Week 8 Ticket](https://github.com/ricesush1/RiceSushi/issues/9)|
 |Week 7|[Week 7 Ticket](https://github.com/ricesush1/RiceSushi/issues/8)|
 |Week 6|[Week 6 Ticket](https://github.com/ricesush1/RiceSushi/issues/7)|
 |Week 5|[Week 5 Ticket](https://github.com/ricesush1/RiceSushi/issues/6)|
